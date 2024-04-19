@@ -2,11 +2,8 @@
 
 This repository hosts the code for detecting facial paralysis from video inputs using machine learning techniques. The project analyzes video data to identify symptoms of facial paralysis effectively.
 
-## Features
-
 - **Video Processing**: Processes video data to extract facial keypoints using `mmpose_video.py`.
 - **Dataset Management**: Manages datasets specific to facial paralysis with `fp_dataset.py`.
-- **Interactive Demo**: Showcases model capabilities in `demo.ipynb`.
 - **Model Training**: Trains detection models in `learning.py`.
 - **Main Execution**: Orchestrates the workflow through `main.py`.
 
