@@ -1,0 +1,63 @@
+{
+    "Record ID": "CompleteFlaccid1",
+    "Grader": "MEEI",
+    "Facial Expressions": {
+        "Static": [
+            0,
+            4
+        ],
+        "Brow Elevation": [
+            5,
+            7
+        ],
+        "Eye Closure": [
+            16,
+            19
+        ],
+        "Smile": [
+            31,
+            33
+        ],
+        "EEEEE": [
+            43,
+            35
+        ],
+        "Pucker": [
+            0,
+            0
+        ],
+        "Say Words": [
+            0,
+            0
+        ]
+    },
+    "Scores": {
+        "Static": {
+            "Brow at rest": 90,
+            "Palpebral fissure at rest": 20,
+            "Nasolabial fold depth at rest": 18,
+            "Oral commissure at rest": 30
+        },
+        "Dynamic": {
+            "Brow elevation": 0,
+            "Gentle eye closure": 4,
+            "Full eye closure": 0,
+            "Nasolabial depth with smile": 0,
+            "Nasolabial fold orientation with smile": 2,
+            "Oral commissure movement with smile": 0,
+            "Lower lip movement with EEEEE": 0
+        },
+        "Synkinesis": {
+            "Ocular": 100,
+            "Midfacial": 100,
+            "Mentalis": 100,
+            "Platysmal": 100
+        },
+        "Composite": {
+            "Static domain score": 38,
+            "Dynamic domain score": 1,
+            "Synkinesis domain score": 100,
+            "Smile composite score": 37
+        }
+    }
+}
